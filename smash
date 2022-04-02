@@ -1,1 +1,6 @@
+local HWID = {
+HWID, -- U put their hwid here, if u put more put commas
+HWID,
+}
 
+return HWID
